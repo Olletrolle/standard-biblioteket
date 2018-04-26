@@ -4,10 +4,13 @@
 #
 # Examples
 #
-#   multiplex(-800)
+#   absolute(-800)
 #   # => 800
 #
-# Returns the .
+#   absolute(-800)
+#   # => 800
+#
+# Returns number.
 def absolute(number)
     if number < 0
        return number - number*2
