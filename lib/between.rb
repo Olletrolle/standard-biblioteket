@@ -8,7 +8,7 @@
 #
 # Examples
 #
-#   is_even(3, 2, 5)
+#   between(3, 2, 5)
 #   # => true
 #
 # Returns true.
