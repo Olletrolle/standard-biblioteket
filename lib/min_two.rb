@@ -1,11 +1,11 @@
 # Public: Outputs the smallest number of two.
 #
-# number - the input intreger.
+# num(1 2) - the input intregers being compared.
 #
 # Examples
 #
 #   min_two(34, 87)
-#   # => 87
+#   # => 34
 #
 # Returns number.
 def min_two(num1, num2)
