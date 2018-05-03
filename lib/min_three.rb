@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   (34, 3, 56)
+#   min_three(34, 3, 56)
 #   # => 3
 #
 # Returns output or num3.
