@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   (44, 76, 56, 43)
+#   min_four(44, 76, 56, 43)
 #   # => 43
 #
 # Returns output1 or output2.
