@@ -1,4 +1,4 @@
-# Public: Compares and outputs the smallest number of three.
+# Public: Compares and outputs the largest number of three.
 #
 # num(1 2 3): the different numbers being compared.
 #
