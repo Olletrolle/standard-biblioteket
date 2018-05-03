@@ -7,7 +7,7 @@
 #   (34, 3, 56)
 #   # => 3
 #
-# Returns number.
+# Returns output or num3.
 def min_three(num1, num2, num3)
 
     if num1 < num2
